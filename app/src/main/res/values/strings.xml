@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SampleLinetv</string>
+    <string name="action_settings">Settings</string>
+
+    <!--戲劇-->
+    <string name="label_rating">評分 :</string>
+    <string name="label_total_views">觀看次數 :</string>
+
+    <string name="label_introduction">劇情簡介 :</string>
+    <string name="label_introduction_1">該片是根據作家趙乾乾同名小說改編，講述了陳小希一直追逐著鄰家男孩江辰腳步、並與他19年間共同成長，從青梅竹馬到女追男，從擁有愛情到錯失後又再次牽手的青春愛情故事。</string>
+    <string name="label_introduction_2">《獅子王強大》（英語：Lion Pride ），2017年東森電視自製戲劇系列之第十一部作品。由曹晏豪、周曉涵、劉書宏、陽靚領銜主演。</string>
+    <string name="label_introduction_3">妹控小說家‧羽島伊月，隨時有一群充滿個性的人聚集在他的身旁。 愛與才能都是重量級，高階的缺憾系美少女‧可兒那由多。 對戀愛迷惘對友情迷惘對夢想迷惘的青春三冠王‧白川京。 鬼畜稅金拯救者‧大野艾希莉。 天才插畫家‧屁桃。 伊月等人各自心懷迷惘與煩惱，有時一起打電動，有時結伴旅行，有時埋首工作，每天都過著熱熱鬧鬧的日子。 總是溫柔地在旁守護，如完美超人般的弟弟‧千尋其實懷有重大的祕密。</string>
+    <string name="label_introduction_5">《黑騎士》（韓語：흑기사），為韓國KBS 2TV於2017年12月6日播出的水木連續劇，由金來沅、申世景及徐智慧主演，講述了為了心愛的女人而甘心接受危險命運的純情派男人文秀浩（金來沅 飾）的故事。由《不善良的女人們》韓相佑導演執導與金仁英作家合作打造。</string>
+    <string name="label_introduction_6">在台灣，平均每四分鐘，就有人離開親友，出境往另一個國度。這是一群處理我們親友出境事務的工作者，在看盡生死之後，如何面對自己人生課題的故事。</string>
+    <string name="label_introduction_10">電影《101次求婚》改編自同名經典日劇。黃達（黃渤 飾）是一個隨時隨地「準備求婚」的建築工人，相貌平平卻擁有各種示愛奇招。葉薰（林志玲 飾）則是一個對感情甚重卻慘遭「未婚夫逃婚」的美女大提琴手。兩人在一次相親大會中相遇，黃達出盡怪招追求葉薰，甚至以性命為賭注在路中擋車只為求得美人芳心。當兩人逐漸陷入愛情甜蜜時，葉薰的前男友許卓（高以翔 飾）卻突然回來，愛情不分階級但強敵出現，不屬於王子公主的愛情童話，有情人是否還能終成眷屬呢?</string>
+
+    <string name="label_drama_content">戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文戲劇內文</string>
+
+
+    <!--共用-->
+    <string name="label_prompt">提示</string>
+    <string name="label_no_data">無資訊</string>
+    <string name="label_not_filled">資料未填寫</string>
+    <string name="label_wait">請稍候..</string>
+    <string name="label_error">錯誤</string>
+    <string name="label_not_network">未連接至網路</string>
+    <string name="label_open_roaming_settings">是否開啟WIFI頁面設定？</string>
+
+
+</resources>
